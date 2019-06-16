@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "lumo-cljs": "^1.10.1"
+  }
+}
